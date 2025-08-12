@@ -1,5 +1,4 @@
-# Stack
-Stack implementation
+Stack and Queue implementation
 
 # MyStack
 
@@ -20,3 +19,21 @@ Supports basic stack operations such as push, pop, peek, and print.
 
 ---
 
+# MyQueue
+
+A generic queue implementation in C# using a circular array with dynamic resizing.  
+Supports standard queue operations like enqueue, dequeue, peek, and print.
+
+---
+
+## Features
+
+- Generic type support (`MyQueue<T>`)  
+- `Enqueue`: Add an item to the rear of the queue  
+- `Dequeue`: Remove and return the front item  
+- `Peek`: View the front item without removing it  
+- Checks for empty and full queue  
+- Automatic resizing when capacity is reached  
+- Print queue contents from front to rear  
+
+---
