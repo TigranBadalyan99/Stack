@@ -20,7 +20,3 @@ Supports basic stack operations such as push, pop, peek, and print.
 
 ---
 
-## Example Usage
-
-```csharp
-
